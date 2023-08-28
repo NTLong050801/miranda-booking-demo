@@ -1,0 +1,10 @@
+{
+    "productId": "BBB3101E",
+    "source": "envato",
+    "apiUrl": "https://license.botble.com",
+    "apiKey": "CAF4B17F6D3F656125F9",
+    "version": "1.34.1",
+    "marketplaceUrl": "https://marketplace.botble.com/api/v1",
+    "marketplaceToken": "7b8247467ee676b988b2e5ed36f9fdd8ed37bdd8",
+    "minimumPhpVersion": "8.0.2"
+}

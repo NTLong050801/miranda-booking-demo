@@ -1,0 +1,8 @@
+{
+    "id": "botble/miranda",
+    "name": "Miranda",
+    "namespace": "Theme\\Miranda\\",
+    "description": "Hotel and Resort Booking system",
+    "author": "Botble Technologies",
+    "required_plugins": []
+}
